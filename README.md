@@ -8,12 +8,6 @@ A monochrome Omarchy theme based on the [Kanso theme for Omarchy](https://github
 
 New York is a **monochromatic** color scheme designed for deep focus and minimal visual noise. Moving away from the traditional blue-gray accents, this theme embraces pure black (`#000000`) backgrounds with a carefully crafted grayscale foreground palette.
 
-### Philosophy
-
-> "Kansō is a color scheme that invites focus, not attention. Inspired by the rustic, traditional palette of Kanagawa, Kansō refines those tones into a more balanced visual hierarchy. It is designed to reduce visual noise and eye strain, creating a calm, 'Zen-like' environment for deep work."
-
-New York takes this philosophy further into monochrome — no blue, no green, no colored accents. Only shades of black, gray, and white.
-
 ## Color Palette
 
 | Role | Color | Hex |
@@ -57,6 +51,7 @@ This theme provides consistent styling across the entire Omarchy desktop environ
 ## Preview
 
 ![New York Theme Preview](preview.png)
+![New York Theme Preview Version 2](assets/preview2.png)
 
 *A clean, monochrome desktop with pure black tones and grayscale accents.*
 
@@ -82,15 +77,12 @@ omarchy theme set "new-york"
 
 ## Project Links
 
-- **HANCORE Linux:** [GitHub](https://github.com/HANCORE-linux)
-- **Waybar Themes:** [HANCORE-linux/waybar-themes](https://github.com/HANCORE-linux/waybar-themes)
-- **Theme Hook Manager:** [OldJobobo/theme-hook-plugin-manager](https://github.com/OldJobobo/theme-hook-plugin-manager)
-- **Omarchy:** [omarchy.org](https://omarchy.org/)
+- **Base theme:** [HANCORE-linux/omarchy-kanso-theme](https://github.com/HANCORE-linux/omarchy-kanso-theme) — the original Kanso theme port for Omarchy
+- - **Omarchy:** [omarchy.org](https://omarchy.org/)
 
 ## Credits
 
-- **Base theme:** [HANCORE-linux/omarchy-kanso-theme](https://github.com/HANCORE-linux/omarchy-kanso-theme) — the original Kanso theme port for Omarchy
-- **New York** monochrome adaptation by HANCORE Linux
+- **HANCORE Linux:** [GitHub](https://github.com/HANCORE-linux)
 - Built for [Omarchy](https://omarchy.org/) — a beautiful, modern Arch Linux distribution with Hyprland
 
 ## License
