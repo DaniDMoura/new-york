@@ -90,7 +90,6 @@ omarchy theme set "new-york"
 ## Credits
 
 - **Base theme:** [HANCORE-linux/omarchy-kanso-theme](https://github.com/HANCORE-linux/omarchy-kanso-theme) — the original Kanso theme port for Omarchy
-- **Upstream inspiration:** [Kanso.nvim](https://github.com/webhooked/kanso.nvim) by [Webhooked](https://github.com/webhooked)
 - **New York** monochrome adaptation by HANCORE Linux
 - Built for [Omarchy](https://omarchy.org/) — a beautiful, modern Arch Linux distribution with Hyprland
 

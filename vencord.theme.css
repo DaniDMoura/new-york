@@ -382,7 +382,7 @@ div[class*="clear_"]:hover {
 
 [class*="threadSuggestion"] [class*="newMessages"],
 [class*="threadSuggestion"] [class*="text-muted"] {
-    color: var(--base0B) !important; /* Dein Türkis #999999 */
+    color: var(--base0B) !important;
     opacity: 1 !important;
 }
 

@@ -1,7 +1,7 @@
 @define-color background-color #000000;
-@define-color border-color #43464E;
-@define-color label #C5C9C7;
-@define-color image #C5C9C7;
+@define-color border-color #444444;
+@define-color label #cccccc;
+@define-color image #cccccc;
 @define-color progress #999999;
 
 /* Cancel out Omarchy settings */
