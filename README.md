@@ -31,7 +31,6 @@ This theme provides consistent styling across the entire Omarchy desktop environ
 - **Alacritty** — Terminal emulator
 - **Foot** — Wayland terminal
 - **Neovim** — Custom `omarchy-mono` colorscheme (monochrome, no colored syntax highlighting)
-- **Zed** — Full editor theme with 5 variants (Omarchy, Kanso Ink, Kanso Mist, Kanso Pearl, Kanso Zen)
 - **Walker** — Application launcher
 - **Waybar** — Status bar
 - **Hyprland** — Window manager (borders, gaps, shadows, animations)
