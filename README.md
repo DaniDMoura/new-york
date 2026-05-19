@@ -2,8 +2,6 @@
 
 A monochrome Omarchy theme based on the [Kanso theme for Omarchy](https://github.com/HANCORE-linux/omarchy-kanso-theme) by [HANCORE Linux](https://github.com/HANCORE-linux).
 
-<b>Original Kanso theme:</b> [HANCORE-linux/omarchy-kanso-theme](https://github.com/HANCORE-linux/omarchy-kanso-theme)
-
 ## Overview
 
 New York is a **monochromatic** color scheme designed for deep focus and minimal visual noise. Moving away from the traditional blue-gray accents, this theme embraces pure black (`#000000`) backgrounds with a carefully crafted grayscale foreground palette.
